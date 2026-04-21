@@ -1,0 +1,16 @@
+# ================= FRONTEND =================
+ecommerceFrontend/node_modules/
+ecommerceFrontend/dist/
+ecommerceFrontend/.env
+
+# ================= BACKEND =================
+ecommerceBackend/target/
+
+# ================= GLOBAL =================
+.env
+*.log
+.DS_Store
+
+# ================= IDE =================
+.idea/
+.vscode/
